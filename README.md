@@ -1,4 +1,4 @@
-<img src="https://realbearpro.com/img/logo-full.png" width="200" />
+<p align="center"><img src="https://realbearpro.com/img/logo-full.png" width="200" /></p>
 
 - 👋 Hi, I’m @rotdrum
 - 👀 I’m interested in ...
